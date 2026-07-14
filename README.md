@@ -14,7 +14,7 @@ To improve workflow efficiency, the framework automatically organizes all collec
 
 The project is designed with scalability and modularity in mind, allowing users to easily add new reconnaissance modules, integrate additional security tools, or customize scanning workflows based on specific engagement requirements. Its modular architecture makes it suitable for learning cybersecurity automation, building custom reconnaissance pipelines, and conducting authorized security assessments in professional environments.
 
-By combining automation, scripting, and industry-standard reconnaissance techniques, the Recon-Automation-Framework demonstrates practical expertise in offensive security, security automation, Linux environments, and Python development. The project showcases how automation can streamline reconnaissance activities, reduce repetitive manual work, improve operational efficiency, and provide security professionals with actionable intelligence for identifying potential security weaknesses.
+By combining automation, scripting, and industry-standard reconnaissance techniques, the Recon-Automation-Framework demonstrates practical expertise in offensive security, security automation, Linux environments, and Python development. The project showcases how automation can streamline reconnaissance activities, reduce repetitive manual work, improve operational efficiency, and provide security professionals with actionable intelligence for identifying potential security weaknesses. 
 
 # 🎯 Skills Demonstrated
 
