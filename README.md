@@ -2,7 +2,7 @@
 
 An automated reconnaissance framework that streamlines the information gathering phase of penetration testing and bug bounty assessments by integrating multiple open-source security tools into a single, efficient workflow. 
 
-# 📌 Overviews
+# 📌 Overviewss
 
 Recon-Automation-Framework is a powerful cybersecurity automation framework developed to simplify, accelerate, and standardize the reconnaissance phase of penetration testing, vulnerability assessments, and bug bounty engagements. Reconnaissance is one of the most critical stages of any security assessment because the quality of information gathered directly influences the effectiveness of identifying potential vulnerabilities and attack vectors. Traditionally, security professionals perform reconnaissance by executing numerous tools individually, manually organizing the collected data, and correlating the results. This process is not only time-consuming but also increases the likelihood of overlooking valuable information.
 
